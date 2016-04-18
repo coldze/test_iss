@@ -1,5 +1,7 @@
 # Test task.
 
+[![Build Status](https://travis-ci.org/coldze/test_iss.svg?branch=master)](https://travis-ci.org/coldze/test_iss)
+
 ## Fixed requirements for the code:
 
 * Interface for packet-receiver should be:
